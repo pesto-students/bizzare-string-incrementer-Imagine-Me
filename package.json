@@ -1,0 +1,21 @@
+{
+  "name": "bizzare-string-incrementer-imagine-me",
+  "version": "1.0.0",
+  "description": "Given a bizarre string, increment the string by 1. Refer to the test cases for more info.",
+  "main": "bizarreStringIncrementer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesto-students/bizzare-string-incrementer-Imagine-Me.git"
+  },
+  "author": "Prince Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesto-students/bizzare-string-incrementer-Imagine-Me/issues"
+  },
+  "homepage": "https://github.com/pesto-students/bizzare-string-incrementer-Imagine-Me#readme",
+  "dependencies": {
+  }
+}
